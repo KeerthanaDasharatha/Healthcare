@@ -61,9 +61,9 @@ Present interactive and visual insights using Power BI dashboards.
 
 
 # Tools Used:
-Python: Data wrangling, aggregation and EDA
+Python: Data wrangling and EDA
 
-MySQL : Querying and cleaning
+MySQL : Querying and extracting the data from database
 
 Power BI: Interactive visual dashboards with filters
 
@@ -72,15 +72,16 @@ Power BI: Interactive visual dashboards with filters
 ## Learnings:
 - Gained hands-on experience working with real-world healthcare data.
 - Improved SQL skills using advanced queries like CTEs and nested subqueries.
-- Learned to design intuitive Power BI dashboards with drill-down insights.
+- Learned to design intuitive Power BI dashboards.
 ## Challenges Faced:
-- Dealing with inconsistent or missing data during preparation.
 - Designing meaningful billing categories required careful analysis.
 - Visualizing multi-dimensional data (e.g., billing vs. condition vs. insurance) in Power BI.
+- Maintaining data confidentiality while presenting sensitive healthcare insights
 
 
 # Power-BI Dashboard:
-![Screenshot (36)](https://github.com/user-attachments/assets/9b046062-75f9-4cf8-aeeb-51e147662c5d)
+<img width="898" height="506" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/5a6d5dfa-486c-410d-82fd-60377ec34ee5" />
+
 
 
 
